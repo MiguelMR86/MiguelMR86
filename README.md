@@ -32,10 +32,8 @@ const Miguel = {
 <a href="https://www.python.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="max-width: 100%;"></a>
 
 ## 🌍 Contact
-<a href="linkedin.com/in/miguel-ángel-medina-ramírez-72a9a6262
-" rel="nofollow"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="36" height="36" alt="Linkedin" style="max-width: 100%;"></a>
-
-<a href="linkedin.com/in/miguel-ángel-medina-ramírez-72a9a6262" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" width="36" height="30" alt="https://www.google.com/intl/es/gmail/about/" style="max-width: 100%;"></a>
+<a href="linkedin.com/in/miguel-ángel-medina-ramírez-72a9a6262" rel="nofollow"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="36" height="36" alt="Linkedin" style="max-width: 100%;"></a>
+<a href="https://www.google.com/intl/es/gmail/about/" rel="nofollow">       <img="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" width="36" height="30" alt="Gmail" style="max-width: 100%;"></a>
 <!--
 **MiguelMR86/MiguelMR86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
