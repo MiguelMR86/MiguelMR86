@@ -3,7 +3,14 @@
 
 ## 🧑‍💻 About me
 
-- Soy un apasionado programador web con una gran pasión por el mundo del desarrollo web. Mi objetivo es convertir ideas en realidad a través del código y proporcionar experiencias excepcionales a los usuarios.
+Soy un desarrollador Junior con ganas de incrementar mis actitutudes y aptitudes.<br />
+{ attitudes++; skills++; }
+
+En los últimos años la demanda de desarrolladores ha crecido exponencialmente y con ello también la oferta. Por eso se que la introducción en este mercado laboral es complicada para todos. Gracias al aprendizaje y el empeño dedicado espero que la búsqueda de una empresa sea más fácil.
+Sin quitar importancia a los estudios realizados, considero a @midudev como un buen maestro y gran referente para ayuadrme a asentar conocimientos en tecnologias como JavaScript o React entre otras.<br />
+const miguel = { JavaScript, React, Tailwind, Firebase, PHP, ExpressJs, Python, anothers: { . . . } }
+
+Actualmente acabo de finalizar el programa Erasmus de mi centro educativo, el cual  ha sido de gran ayuda para comprender mejor ambitos como el trabajo en equipo y la organización del trabajo. Espero poder iniciar en este mercado antes de que se me adelente ChatGPT.
 
 ## ⚡ Skills
 
