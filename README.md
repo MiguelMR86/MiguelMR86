@@ -1,5 +1,6 @@
 # Hi there, I'm Miguel 👋💻
-![World Map](https://github.com/MiguelMR86/MiguelMR86/assets/90867675/873a2f8b-064f-456b-8924-7a134038965a)
+
+![Google Classroom Header](https://github.com/MiguelMR86/MiguelMR86/assets/90867675/bcebf94a-09be-4427-821b-15263a98fc37)
 
 ## 🧑‍💻 About me
 
@@ -11,6 +12,8 @@ Sin quitar importancia a los estudios realizados, considero a @midudev como un b
 const miguel = { JavaScript, React, Tailwind, Firebase, PHP, ExpressJs, Python, anothers: { . . . } }
 
 Actualmente acabo de finalizar el programa Erasmus de mi centro educativo, el cual  ha sido de gran ayuda para comprender mejor ambitos como el trabajo en equipo y la organización del trabajo. Espero poder iniciar en este mercado antes de que se me adelente ChatGPT.
+
+![World Map](https://github.com/MiguelMR86/MiguelMR86/assets/90867675/873a2f8b-064f-456b-8924-7a134038965a)
 
 ## ⚡ Skills
 
