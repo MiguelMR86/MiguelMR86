@@ -1,6 +1,6 @@
 # Hi there, I'm Miguel 👋💻
 
-![Google Classroom Header](https://github.com/MiguelMR86/MiguelMR86/assets/90867675/bcebf94a-09be-4427-821b-15263a98fc37)
+![Google Classroom Header](https://github.com/MiguelMR86/MiguelMR86/assets/90867675/ef1eddae-f7a0-449e-b319-d57aa1a11e8a)
 
 ## 🧑‍💻 About me
 
