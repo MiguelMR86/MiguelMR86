@@ -4,14 +4,17 @@
 
 ## 🧑‍💻 About me
 
-Soy un desarrollador Junior con ganas de incrementar mis actitutudes y aptitudes.<br />
+¡Hola, empleadores!
+
+Soy un desarrollador Junior con ganas de incrementar mis actitudes y aptitudes. 
 { attitudes++; skills++; }
 
-En los últimos años la demanda de desarrolladores ha crecido exponencialmente y con ello también la oferta. Por eso se que la introducción en este mercado laboral es complicada para todos. Gracias al aprendizaje y el empeño dedicado espero que la búsqueda de una empresa sea más fácil.
-Sin quitar importancia a los estudios realizados, considero a @midudev como un buen maestro y gran referente para ayuadrme a asentar conocimientos en tecnologias como JavaScript o React entre otras.<br />
+En los últimos años, la demanda de desarrolladores ha crecido exponencialmente y, con ello, también la oferta. Por eso sé que la introducción a este mercado laboral es complicada para todos. Sin embargo, gracias al aprendizaje y al empeño dedicado, espero que mi búsqueda de una empresa sea más fácil.
+
+Sin quitar importancia a los estudios realizados, considero a @midudev como un buen maestro y gran referente que me ha ayudado a asentar conocimientos en tecnologías como JavaScript o React, entre otras.
 const miguel = { JavaScript, React, Tailwind, Firebase, PHP, ExpressJs, Python, anothers: { . . . } }
 
-Actualmente acabo de finalizar el programa Erasmus de mi centro educativo, el cual  ha sido de gran ayuda para comprender mejor ambitos como el trabajo en equipo y la organización del trabajo. Espero poder iniciar en este mercado antes de que se me adelente ChatGPT.
+Actualmente, acabo de finalizar el programa Erasmus de mi centro educativo, el cual ha sido de gran ayuda para comprender mejor varios ámbitos como el trabajo en equipo y la organización del trabajo. Ahora solo espero poder iniciar en este mercado laboral antes de que se me adelante ChatGPT.
 
 ![World Map](https://github.com/MiguelMR86/MiguelMR86/assets/90867675/873a2f8b-064f-456b-8924-7a134038965a)
 
