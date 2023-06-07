@@ -23,8 +23,8 @@ Actualmente, acabo de finalizar el programa Erasmus de mi centro educativo, el c
 ```js
 const Miguel = {
     code: {
-        Frotend: [TypeScript, JavaScript, HTML5, CSS3, React, Vite, Tailwind, Material-Tailwind, Bootstrap],
-        Backend: [Firebase, PHP, NodeJs, ExpressJs, MySQL, Python]
+        frotend: [TypeScript, JavaScript, HTML5, CSS3, React, Vite, Tailwind, Material-Tailwind, Bootstrap],
+        backend: [Firebase, PHP, NodeJs, ExpressJs, MySQL, Python]
     }
 }
 ```
