@@ -9,7 +9,7 @@
 Soy un desarrollador Junior con ganas de incrementar mis actitudes y aptitudes. 
 { attitudes++; skills++; }
 
-En los últimos años, la demanda de desarrolladores ha crecido exponencialmente y, con ello, también la oferta. Por eso sé que la introducción a este mercado laboral es complicada para todos. Sin embargo, gracias al aprendizaje y al empeño dedicado, espero que mi búsqueda de una empresa sea más fácil.
+En los últimos años, la demanda de desarrolladores ha crecido exponencialmente, y con ello, también la oferta. Por eso sé que la introducción a este mercado laboral es complicada para todos. Sin embargo, gracias al aprendizaje y al empeño dedicado, espero que mi búsqueda de una empresa sea más fácil.
 
 Sin quitar importancia a los estudios realizados, considero a @midudev como un buen maestro y gran referente que me ha ayudado a asentar conocimientos en tecnologías como JavaScript o React, entre otras.
 const miguel = { JavaScript, React, Tailwind, Firebase, PHP, ExpressJs, Python, anothers: { . . . } }
