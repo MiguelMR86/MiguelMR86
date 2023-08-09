@@ -7,7 +7,7 @@
 ¡Hola, empleadores!
 
 Soy un desarrollador Junior con ganas de incrementar mis actitudes y aptitudes. 
-{ attitudes++; skills++; }
+{ aptitudes++; skills++; }
 
 En los últimos años, la demanda de desarrolladores ha crecido exponencialmente, y con ello, también la oferta. Por eso sé que la introducción a este mercado laboral es complicada para todos. Sin embargo, gracias al aprendizaje y al empeño dedicado, espero que mi búsqueda de una empresa sea más fácil.
 
