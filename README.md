@@ -16,8 +16,6 @@ const miguel = { JavaScript, React, Tailwind, Firebase, PHP, ExpressJs, Python, 
 
 Actualmente, acabo de finalizar el programa Erasmus de mi centro educativo, el cual ha sido de gran ayuda para comprender mejor varios ámbitos como el trabajo en equipo y la organización del trabajo. Ahora solo espero poder iniciar en este mercado laboral antes de que se me adelante ChatGPT.
 
-![World Map](https://github.com/MiguelMR86/MiguelMR86/assets/90867675/873a2f8b-064f-456b-8924-7a134038965a)
-
 ## ⚡ Skills
 
 ```js
