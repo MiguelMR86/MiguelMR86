@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About me
 
-¡Hola, empleadores!
+¡Saludos!
 
 Soy un desarrollador Junior con ganas de incrementar mis actitudes y aptitudes. 
 { aptitudes++; skills++; }
